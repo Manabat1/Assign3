@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -std=c++11 -g  -Wl,--enable-auto-import CMakeFiles/Triangles.dir/main.cpp.o CMakeFiles/Triangles.dir/Point.cpp.o CMakeFiles/Triangles.dir/Edge.cpp.o CMakeFiles/Triangles.dir/Triangle.cpp.o CMakeFiles/Triangles.dir/Utils.cpp.o  -o ../Triangles.exe -Wl,--out-implib,libTriangles.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
